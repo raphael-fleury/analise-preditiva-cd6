@@ -5,4 +5,4 @@ R: 1367/53692 = 2,54%
 R: 25/53692 = 0,0466%
 
 3) Sabendo que o cliente tem score "Muito Alto", qual a probabilidade dele ser inadimplente?
-R: P(ScoreAlto | Inadimplente) = 25/1367 = 1,82%
+R: 25/3425 = ~0,73%
