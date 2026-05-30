@@ -1,0 +1,8 @@
+1) Com base nessas informações, estime a probabilidade futura  de um cliente ser inadimplente na primeira parcela.
+R: 1367/53692 = 2,54%
+
+2) Qual a probabilidade de, ao selecionarmos um cliente de forma aleatória, que ele tenha um score "Muito Alto" e seja inadimplente?
+R: 25/53692 = 0,0466%
+
+3) Sabendo que o cliente tem score "Muito Alto", qual a probabilidade dele ser inadimplente?
+R: P(ScoreAlto | Inadimplente) = 25/1367 = 1,82%
